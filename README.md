@@ -8,10 +8,10 @@
 <h2>Benefits of WithCreator.java (Using Creator Principle)<h2>
 
 <ul>
-<li>✔ Encapsulation – Centralizes object creation in ProductFactory.</li>
-<li>✔ Loose Coupling – WithCreator does not directly instantiate Product.</li>
-<li>✔ Better Maintainability – Changing the creation logic (e.g., validations, logging) only requires updating ProductFactory.</li>
-<li>✔ Code Reusability – ProductFactory can be used throughout the application.</li>
+<li>Encapsulation – Centralizes object creation in ProductFactory.</li>
+<li>Loose Coupling – WithCreator does not directly instantiate Product.</li>
+<li>Better Maintainability – Changing the creation logic (e.g., validations, logging) only requires updating ProductFactory.</li>
+<li>Code Reusability – ProductFactory can be used throughout the application.</li>
 </ul>
 
 <h3>Final Comparison</h3>
