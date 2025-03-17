@@ -5,7 +5,7 @@
 <li>Code Duplication – Every time a Product is created, we must repeat the constructor logic.</li>
 </ul>
 
-<h2>Benefits of WithCreator.java (Using Creator Principle)<h2>
+<h2>Benefits of WithCreator.java (Using Creator Principle)</h2>
 
 <ul>
 <li>Encapsulation – Centralizes object creation in ProductFactory.</li>
