@@ -1,3 +1,6 @@
+
+<h1>Video Explanation</h1> <br>
+<li>Click to watch: https://drive.google.com/file/d/18ivwCFRPHPXrsurzlslmeg1WYHib5qMi/view?usp=sharing</li>
 <h1>Problems in Without Creator</h1>
 <ul>
 <li>No Separation of Concerns – WithoutCreator directly creates a Product, mixing UI and logic.</li>
